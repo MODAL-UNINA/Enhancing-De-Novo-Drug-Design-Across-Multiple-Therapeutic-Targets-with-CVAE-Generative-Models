@@ -8,6 +8,8 @@ Contact: daniela.annunziata@unina.it, cerciellodonato@gmail.com, francesco.picci
 
 Reference: Romanelli, V., Annunziata, D., Cerchia, C., Cerciello, D., Piccialli, F., & Lavecchia, A. (2024). Enhancing De Novo Drug Design across Multiple Therapeutic Targets with CVAE Generative Models. ACS Omega, 9(43), 43963–43976. https://doi.org/10.1021/acsomega.4c08027
 
+DOI: 10.1021/acsomega.4c08027
+
 This directory contains implementations of the Conditional Variational Autoencoders (CVAE) framework for molecule generation using different grammars 
 (SMILES or SELFIES), targeting Cyclin-Dependent Kinase 2 (CDK2), Peroxisome Proliferator-Activated Receptor Gamma (PPAR-γ) and Dipeptidyl Peptidase-4
 (DDP-IV).
